@@ -1,0 +1,55 @@
+body{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    width: 1500px;
+    height: 500px;
+
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    align-items: center;
+}
+
+.master-pick{
+    display: inline-block;
+    margin-left: 250px;
+}
+
+.pick{
+    background: none;
+    cursor: pointer;
+    transition: 100ms;
+    border-radius: 100%;
+    .width="100px";
+    .height="100px";
+}
+
+
+.pick:hover{
+    transform: scale(1.2);
+}
+
+.players{
+    display: grid;
+    margin-top: 5px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: repeat(2,1fr);
+    font-size: 25px;
+}
+
+
+.chosen{
+    display: grid;
+    margin-top: 5px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    grid-template-columns: repeat(2,1fr);
+}
