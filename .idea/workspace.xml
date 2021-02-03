@@ -38,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -49,7 +50,7 @@
       <recent name="$PROJECT_DIR$/SrcImages" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.input.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ICP3/Web_Lesson3/UseCase/Calculator/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -61,9 +62,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.input.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +81,11 @@
       <workItem from="1612213109883" duration="1786000" />
       <workItem from="1612214956134" duration="15535000" />
       <workItem from="1612295083421" duration="4077000" />
+      <workItem from="1612392586159" duration="533000" />
+      <workItem from="1612393137672" duration="12000" />
+      <workItem from="1612393211989" duration="315000" />
+      <workItem from="1612393593607" duration="367000" />
+      <workItem from="1612393984969" duration="123000" />
     </task>
     <servers />
   </component>

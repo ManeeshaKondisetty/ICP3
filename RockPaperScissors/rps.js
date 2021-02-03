@@ -28,9 +28,15 @@ function userPick() {
         document.getElementById("userImg").src="SrcImages/paper.png";
         if(computerSelection === "scissors") {
             compScore++;
-        } else {
+        }
+        else if (computerSelection==="paper"){
+            //do nothing
+        }
+        else {
             userScore++;
         }
+
+
     }
 
     if(userSelection === "rock") {
@@ -38,7 +44,11 @@ function userPick() {
 
         if(computerSelection === "paper") {
             compScore++;
-        } else {
+        }
+        else if (computerSelection==="rock"){
+            //do nothing
+        }
+        else {
             userScore++;
         }
     }
@@ -48,7 +58,11 @@ function userPick() {
 
         if(computerSelection === "rock") {
             compScore++;
-        } else {
+        }
+        else if (computerSelection==="scissors"){
+            //do nothing
+        }
+        else {
             userScore++;
         }
     }
