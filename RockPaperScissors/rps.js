@@ -24,46 +24,56 @@ function userPick() {
     userSelection = window.event.target.id;
 
 
-    if(userSelection === "paper") {
-        document.getElementById("userImg").src="SrcImages/paper.png";
-        if(computerSelection === "scissors") {
+    if (userSelection === "paper") {
+        document.getElementById("userImg").src = "SrcImages/paper.png";
+        if (computerSelection === "scissors") {
+            document.getElementById("alert").innerText = "Computer Won!!";
+
             compScore++;
-        }
-        else if (computerSelection==="paper"){
-            //do nothing
-        }
-        else {
+        } else if (computerSelection === "paper") {
+            document.getElementById("alert").innerText = "Its a Tie!!";
+        } else {
             userScore++;
+            document.getElementById("alert").innerText = "Yayy!!You Won!!";
+
         }
 
 
     }
 
-    if(userSelection === "rock") {
-        document.getElementById("userImg").src="SrcImages/rock.png";
+    if (userSelection === "rock") {
+        document.getElementById("userImg").src = "SrcImages/rock.png";
 
-        if(computerSelection === "paper") {
+        if (computerSelection === "paper") {
             compScore++;
-        }
-        else if (computerSelection==="rock"){
+            document.getElementById("alert").innerText = "Computer Won!!";
+
+        } else if (computerSelection === "rock") {
             //do nothing
-        }
-        else {
+            document.getElementById("alert").innerText = "Its a Tie!!";
+
+        } else {
             userScore++;
+            document.getElementById("alert").innerText = "Yayy!!You Won!!";
+
         }
     }
 
-    if(userSelection === "scissors") {
-        document.getElementById("userImg").src="SrcImages/scissors.png";
+    if (userSelection === "scissors") {
+        document.getElementById("userImg").src = "SrcImages/scissors.png";
 
-        if(computerSelection === "rock") {
+        if (computerSelection === "rock") {
             compScore++;
-        }
-        else if (computerSelection==="scissors"){
+            document.getElementById("alert").innerText = "Computer Won!!";
+
+        } else if (computerSelection === "scissors") {
             //do nothing
-        }
-        else {
+            document.getElementById("alert").innerText = "Its a Tie!!";
+
+        } else {
             userScore++;
+            document.getElementById("alert").innerText = "Yayy!!You Won!!";
+
         }
     }
 
