@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbf87bb4-ff13-47e0-9f63-f418e76933d9" name="Default Changelist" comment="" />
+    <list default="true" id="f72c53c7-e65c-4bf7-be2e-1e2b5f1a4b00" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nzXxWHnr2D0YFkIFxZePevIixW" />
+  <component name="ProjectId" id="1nzzmxhDwffcfQJknZRct43IgHz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,29 +25,39 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RockPaperScissors/index.html" useBuiltInWebServerPort="true">
+    <configuration name="input.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.input.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cbf87bb4-ff13-47e0-9f63-f418e76933d9" name="Default Changelist" comment="" />
-      <created>1612394144090</created>
+      <changelist id="f72c53c7-e65c-4bf7-be2e-1e2b5f1a4b00" name="Default Changelist" comment="" />
+      <created>1612407870220</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612394144090</updated>
-      <workItem from="1612394151412" duration="2438000" />
-      <workItem from="1612406306612" duration="3000000" />
+      <updated>1612407870220</updated>
+      <workItem from="1612407871785" duration="6816000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

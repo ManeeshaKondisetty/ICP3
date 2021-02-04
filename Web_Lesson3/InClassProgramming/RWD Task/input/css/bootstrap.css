@@ -35,7 +35,16 @@ h1{
 
 div{
   font-family: fontstyle;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 
+}
+imgstyle{
+  width: 100%;
+  padding: 10px;
+  display: block;
 }
 
 article,
